@@ -2,7 +2,7 @@
 
 ### Notification System
 . create notification
-. get usr notification
+. get user notification
 . make as read
 . delete notification
 
@@ -47,4 +47,3 @@ Send same notification via:
 . WebSocket(real-time)
 . Datebase (storage)
 . Email(options)
-
